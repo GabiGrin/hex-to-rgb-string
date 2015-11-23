@@ -1,4 +1,6 @@
-# Usage
+#Hex to RGB String [![Build Status](https://travis-ci.org/GabiGrin/hex-to-rgb-string.svg)](https://travis-ci.org/GabiGrin/hex-to-rgb-string)
+
+## Usage
 `$ npm install hex-to-rgb-string`
 
 ```
