@@ -1,0 +1,27 @@
+{
+  "name": "hex-to-rgb-string",
+  "version": "1.0.0",
+  "description": "convert hex string to rgb string",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabiGrin/hex-to-rgb-string.git"
+  },
+  "keywords": [
+    "rgba",
+    "hex",
+    "color"
+  ],
+  "author": "GabiGrin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabiGrin/hex-to-rgb-string/issues"
+  },
+  "homepage": "https://github.com/GabiGrin/hex-to-rgb-string#readme",
+  "devDependencies": {
+    "ava": "^0.5.0"
+  }
+}
